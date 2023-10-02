@@ -1,3 +1,8 @@
+var upperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+var lowerCase = "abcdefghijklmnopqrstuvwxyz";
+var numbers = "0123456789";
+var special = "!@#$%^&*()_+";
+
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
 
