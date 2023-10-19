@@ -44,13 +44,31 @@ User: Copies the password to their clipboard.
 
 This application uses a cryptographically secure random number generator to generate passwords. This means that the passwords are unpredictable and cannot be easily guessed or cracked.
 
+
 **Tips for creating strong passwords**
+
 
 - Use a long password (at least 12 characters).
 - Include a mix of lowercase, uppercase, numeric, and special characters.
 - Avoid using common words or phrases.
 - Do not use the same password for multiple accounts.
 
+
 ## Conclusion
 
+
 This password generator can help you create strong, secure passwords to protect your online accounts.
+
+
+## Screenshot
+
+
+![Screenshot of generated password](./assets/password1.png)
+
+
+## Link to Deployed Application
+
+
+Deployed application: https://whatsmagicword.github.io/Password-Generator/  
+
+GitHub repository: https://github.com/Flagg217/WhatsMagicWord  
